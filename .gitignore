@@ -6,3 +6,6 @@
 *.jpeg
 *.gif
 *.7ZQIf3CI
+node_modules/
+.env
+*.log
